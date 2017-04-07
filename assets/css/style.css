@@ -1,0 +1,97 @@
+/*/*//*#placeHolder {
+    letter-spacing: 0.2em;
+}
+
+body {
+    /*background: #ED0919;*/
+  /*  background: #F7534A;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+.jumbotron {
+    background: #EDDA09;
+}
+
+.footer{
+	background-color: black;
+	border-top: solid;
+	border-top-color: #EDDA09;
+	color:#ffffff;
+	text-align: center;
+	position: relative;
+}
+.wrapper {
+  height: auto !important;
+  height: 100%;
+  min-height: 100%;
+  margin: 0 auto -105px;
+}
+footer,
+.push {
+  height: 105px;
+}
+*/
+
+
+
+
+
+
+
+
+@font-face {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+body {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    /*background-repeat:no-repeat;*/
+    background-color: #F23333;
+    color:#ffffff;
+    font-size: 3.0em;   
+}
+
+.p {
+	font-size: 3.0em; 
+	margin-top: 200px;
+}
+
+
+.logo{
+	display: block;
+    margin: 0 auto;
+    height: 150px;
+    width: 150px;
+    padding: 40px;
+}
+
+
+
+.main{
+	height: 370px;
+}
+
+.images{
+	float: left;
+	border-right-style: solid;
+	width: 400px;
+	height: 230px;
+	padding: 50px;
+
+}
+
+#car-pic{
+	width: 200px;
+	height: 200px;
+}
+
+.footer{
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	float: bottom;
+	clear:both;
+	border-top: solid;
+	border-bottom: solid;
+	background-color: black;
+	border-color: #EDDA09;
+	color:#ffffff;
+	text-align: center;
+}
